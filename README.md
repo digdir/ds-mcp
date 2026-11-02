@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repository is not actively being maintained or updated. 
+
 # DesignBot MCP
 
 [![npm version](https://img.shields.io/npm/v/@simon-archer/designbot-mcp.svg)](https://www.npmjs.com/package/@simon-archer/designbot-mcp)
